@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "9ba615d8022658e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "86262ee63a3a8147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1db8e015dc518bc7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "แท็บใหม่"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3282d25a5ca6322d",
+    "type": "split",
+    "children": [
+      {
+        "id": "52d1885acfe310e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a40425036c76d424",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "f79d3884369e0975",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "ค้นหา"
+            }
+          },
+          {
+            "id": "e57e2baea0582184",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "a8729619fb9fb929",
+    "type": "split",
+    "children": [
+      {
+        "id": "b128e2f25a49af3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bec17ca79d20696",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_System_Meta (การจัดการระบบ)/Templates/ยังไม่ได้ตั้งชื่อ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "แบ็คลิงค์ของ ยังไม่ได้ตั้งชื่อ"
+            }
+          },
+          {
+            "id": "a6a5cbec46232118",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_System_Meta (การจัดการระบบ)/Templates/ยังไม่ได้ตั้งชื่อ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ลิงค์ขาออกของ ยังไม่ได้ตั้งชื่อ"
+            }
+          },
+          {
+            "id": "6c85279172fcbb00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49483f3fdca7750f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e965c179882313d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_System_Meta (การจัดการระบบ)/Templates/ยังไม่ได้ตั้งชื่อ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "โครงเรื่องของ ยังไม่ได้ตั้งชื่อ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1db8e015dc518bc7",
+  "lastOpenFiles": [
+    "ยังไม่ได้ตั้งชื่อ.canvas",
+    "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/เมืองกราเวีย (Gravia).md",
+    "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/ระบบสัตว์อสูร_Ethereal_Beasts.md",
+    "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/มหาทวีปเซนเทีย.md",
+    "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/ป่าต้องสาปแห่งความว่างเปล่า.md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Protagonist_ข้อมูลพระเอก, การพัฒนาของสายเลือด, อุปกรณ์/ลีอาน่า_เอวาลิน.md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Protagonist_ข้อมูลพระเอก, การพัฒนาของสายเลือด, อุปกรณ์/ไคราส (Kairos).md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/เซราฟีน่า_ดาร์คฟอร์ด.md",
+    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/ตระกูลดาร์คฟอร์ด.md",
+    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/ตระกูลโกลด์สไตน์.md",
+    "02_World_Building (ข้อมูลโลก - Context)/Bloodlines_(ข้อมูลสายเลือดพิเศษประเภทต่างๆ และจุดอ่อน)/เนตรคัดสรร (Eye of Appraisal).md",
+    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/อาณาจักรอาเธลการ์ด.md",
+    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Inventions_(สิ่งประดิษฐ์จากอนาคตที่นำมาประยุกต์ใช้)/คริสตัลวงจร (Circuit Crystal).md",
+    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/อาณาจักรซิง-เทียน.md",
+    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/สหพันธรัฐโอเชียนัส.md",
+    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/ศาสนจักรออเรเลียน.md",
+    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/จักรวรรดินอร์ธเทิร์นโฮลด์.md",
+    "00_System_Meta (การจัดการระบบ)/Templates/เทมเพลตเหตุการณ์-สงคราม (Event & Battle Template).md",
+    "00_System_Meta (การจัดการระบบ)/Templates/เทมเพลตเทคโนโลยี-อาวุธกลไก (Tech & Weapon Template).md",
+    "00_System_Meta (การจัดการระบบ)/Templates/เทมเพลตตัวละคร (Character Template).md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/อลาโนส_เอลเลอริก_ที่3.md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/เอเลี่ยน_เอลเลอริก.md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/เซดริก_เอลเลอริก.md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/คาสซิอุส_ออเรเลียน.md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/คอร์ก_สตีลฮาร์ท.md",
+    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Generals_(ขุนพลที่รวบรวมได้ และที่เล็งไว้)/เซนอส_แม่ทัพใหญ่สายทำลายล้าง.md",
+    "ยังไม่ได้ตั้งชื่อ 1.canvas",
+    "ยังไม่ได้ตั้งชื่อ 2.canvas",
+    "05_Analysis_Neo4j (ส่วนการวิเคราะห์โดยเฉพาะ)/Conflict_Graphs_(สรุปปมขัดแย้งที่ยังหาทางแก้ไม่ได้)",
+    "05_Analysis_Neo4j (ส่วนการวิเคราะห์โดยเฉพาะ)/Network_Maps_(แผนผังสายลับและการกระจายข่าว)",
+    "05_Analysis_Neo4j (ส่วนการวิเคราะห์โดยเฉพาะ)/Relationships_โน้ตสั้นๆ ที่เน้นระบุความสัมพันธ์",
+    "04_Timeline_Events (ลำดับเหตุการณ์ - Edges)/Political_Shifts_(บันทึกการเปลี่ยนแปลงของอำนาจที่พระเอกบงการ)",
+    "04_Timeline_Events (ลำดับเหตุการณ์ - Edges)/Historical_Records_(เหตุการณ์สำคัญในอดีตที่ส่งผลต่อปัจจุบัน)",
+    "04_Timeline_Events (ลำดับเหตุการณ์ - Edges)/Main_Story_(เนื้อเรื่องหลัก แบ่งตามบท)",
+    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Inventions_(สิ่งประดิษฐ์จากอนาคตที่นำมาประยุกต์ใช้)",
+    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Military_Tactics_(อัลกอริทึมการรบ, การจัดทัพแบบระบบอัตโนมัติ)",
+    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Spear_Modules_(รายละเอียดส่วนประกอบของทวนกลไก)",
+    "02_World_Building (ข้อมูลโลก - Context)/Economy_(ระบบเงินตรา, เส้นทางการค้าที่พระเอกชักใย)"
+  ]
+}
