@@ -11,10 +11,14 @@
             "id": "1db8e015dc518bc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04_Timeline_Events (ลำดับเหตุการณ์ - Edges)/Main_Story_(เนื้อเรื่องหลัก แบ่งตามบท)/แผนการดำเนินเนื้อเรื่อง_รอยทัณฑ์จักรพรรดิเงา.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "แท็บใหม่"
+              "title": "แผนการดำเนินเนื้อเรื่อง_รอยทัณฑ์จักรพรรดิเงา"
             }
           }
         ]
@@ -160,13 +164,23 @@
               "icon": "lucide-list",
               "title": "โครงเรื่องของ ยังไม่ได้ตั้งชื่อ"
             }
+          },
+          {
+            "id": "5aa48ad2b8a20a80",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 737.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,37 +190,42 @@
       "daily-notes:เปิดโน้ตของวันนี้": false,
       "templates:แทรกเทมเพลต": false,
       "command-palette:เปิดกระดานคำสั่ง": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "1db8e015dc518bc7",
   "lastOpenFiles": [
+    "04_Timeline_Events (ลำดับเหตุการณ์ - Edges)/Main_Story_(เนื้อเรื่องหลัก แบ่งตามบท)/โครงเรื่องหลัก_รอยทัณฑ์จักรพรรดิเงา.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
     "ยังไม่ได้ตั้งชื่อ.canvas",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/เมืองกราเวีย (Gravia).md",
-    "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/ระบบสัตว์อสูร_Ethereal_Beasts.md",
     "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/มหาทวีปเซนเทีย.md",
+    "copilot/copilot-conversations/ช่วยดูว่าควรสร้างเนื่อหาอะไ@20260222_093410.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/ระบบสัตว์อสูร_Ethereal_Beasts.md",
     "02_World_Building (ข้อมูลโลก - Context)/Geography_(แผนที่เมือง, จุดยุทธศาสตร์, ทรัพยากร)/ป่าต้องสาปแห่งความว่างเปล่า.md",
     "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Protagonist_ข้อมูลพระเอก, การพัฒนาของสายเลือด, อุปกรณ์/ลีอาน่า_เอวาลิน.md",
     "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Protagonist_ข้อมูลพระเอก, การพัฒนาของสายเลือด, อุปกรณ์/ไคราส (Kairos).md",
     "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/เซราฟีน่า_ดาร์คฟอร์ด.md",
     "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/ตระกูลดาร์คฟอร์ด.md",
     "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/ตระกูลโกลด์สไตน์.md",
-    "02_World_Building (ข้อมูลโลก - Context)/Bloodlines_(ข้อมูลสายเลือดพิเศษประเภทต่างๆ และจุดอ่อน)/เนตรคัดสรร (Eye of Appraisal).md",
-    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/อาณาจักรอาเธลการ์ด.md",
-    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Inventions_(สิ่งประดิษฐ์จากอนาคตที่นำมาประยุกต์ใช้)/คริสตัลวงจร (Circuit Crystal).md",
-    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/อาณาจักรซิง-เทียน.md",
-    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/สหพันธรัฐโอเชียนัส.md",
-    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/ศาสนจักรออเรเลียน.md",
-    "02_World_Building (ข้อมูลโลก - Context)/Factions_(ก๊กต่างๆ, โครงสร้างอำนาจ)/จักรวรรดินอร์ธเทิร์นโฮลด์.md",
-    "00_System_Meta (การจัดการระบบ)/Templates/เทมเพลตเหตุการณ์-สงคราม (Event & Battle Template).md",
-    "00_System_Meta (การจัดการระบบ)/Templates/เทมเพลตเทคโนโลยี-อาวุธกลไก (Tech & Weapon Template).md",
-    "00_System_Meta (การจัดการระบบ)/Templates/เทมเพลตตัวละคร (Character Template).md",
-    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/อลาโนส_เอลเลอริก_ที่3.md",
-    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/เอเลี่ยน_เอลเลอริก.md",
-    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/เซดริก_เอลเลอริก.md",
-    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/คาสซิอุส_ออเรเลียน.md",
-    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Antagonists_(นักการเมือง, ขุนพลศัตรู, ผู้มีอิทธิพล)/คอร์ก_สตีลฮาร์ท.md",
-    "01_Characters (ฐานข้อมูลบุคคล - Nodes)/Generals_(ขุนพลที่รวบรวมได้ และที่เล็งไว้)/เซนอส_แม่ทัพใหญ่สายทำลายล้าง.md",
     "ยังไม่ได้ตั้งชื่อ 1.canvas",
     "ยังไม่ได้ตั้งชื่อ 2.canvas",
     "05_Analysis_Neo4j (ส่วนการวิเคราะห์โดยเฉพาะ)/Conflict_Graphs_(สรุปปมขัดแย้งที่ยังหาทางแก้ไม่ได้)",
@@ -215,9 +234,6 @@
     "04_Timeline_Events (ลำดับเหตุการณ์ - Edges)/Political_Shifts_(บันทึกการเปลี่ยนแปลงของอำนาจที่พระเอกบงการ)",
     "04_Timeline_Events (ลำดับเหตุการณ์ - Edges)/Historical_Records_(เหตุการณ์สำคัญในอดีตที่ส่งผลต่อปัจจุบัน)",
     "04_Timeline_Events (ลำดับเหตุการณ์ - Edges)/Main_Story_(เนื้อเรื่องหลัก แบ่งตามบท)",
-    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Inventions_(สิ่งประดิษฐ์จากอนาคตที่นำมาประยุกต์ใช้)",
-    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Military_Tactics_(อัลกอริทึมการรบ, การจัดทัพแบบระบบอัตโนมัติ)",
-    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Spear_Modules_(รายละเอียดส่วนประกอบของทวนกลไก)",
-    "02_World_Building (ข้อมูลโลก - Context)/Economy_(ระบบเงินตรา, เส้นทางการค้าที่พระเอกชักใย)"
+    "03_Mechanics_Tech (เทคโนโลยีและพลัง - Specs)/Inventions_(สิ่งประดิษฐ์จากอนาคตที่นำมาประยุกต์ใช้)"
   ]
 }
